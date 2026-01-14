@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <FaEnvelope className="text-accent-blue" size={20} />,
       title: "Email",
-      value: "hamza.dev.work@gmail.com",
-      link: "mailto:hamza.dev.work@gmail.com",
+      value: "hamzaarif7102@gmail.com",
+      link: "mailto:hamzaarif7102@gmail.com",
     },
     {
       icon: <FaMapMarkerAlt className="text-accent-blue" size={20} />,
